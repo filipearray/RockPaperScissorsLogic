@@ -1,0 +1,25 @@
+body{
+    font-family: Netflix Sans;
+}
+
+button {
+    font-family: Netflix Sans;
+}
+
+.gameDiv{
+    background-color: #CCC;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.containerDiv{
+    justify-content: center;
+}
+
+button{
+    border-radius: 5px;
+    border-color: #CCC;
+
+}
